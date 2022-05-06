@@ -1,0 +1,55 @@
+
+h1 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: x-large;
+}
+
+.small {
+    font-size: small;
+}
+
+.middle {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.multiattributes {
+    font-size: x-large;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont {
+    color: pink;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.border {
+    border-color: aqua;
+    border-style: dotted;
+    border-width: 25px;
+}
